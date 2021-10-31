@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1590953228"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -k-framework -kCocoa -l -vewnhibq -Fi/Users/bmueller/Documents/Programmierung/Pascal/PhoneBookConverter/lib/x86_64-darwin -Fu/Applications/Lazarus/lcl/units/x86_64-darwin/cocoa -Fu/Applications/Lazarus/lcl/units/x86_64-darwin -Fu/Applications/Lazarus/components/lazutils/lib/x86_64-darwin -Fu/Applications/Lazarus/packager/units/x86_64-darwin -Fu/Users/bmueller/Documents/Programmierung/Pascal/PhoneBookConverter/ -FU/Users/bmueller/Documents/Programmierung/Pascal/PhoneBookConverter/lib/x86_64-darwin/ -FE/Users/bmueller/Documents/Programmierung/Pascal/PhoneBookConverter/ -o/Users/bmueller/Documents/Programmierung/Pascal/PhoneBookConverter/PhoneBookConverter -dLCL -dLCLcocoa PhoneBookConverter.lpr"/>
+</CONFIG>
