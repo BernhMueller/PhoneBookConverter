@@ -8,9 +8,8 @@
         <Filename Value="PhoneBookConverter.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="vCardTransformer"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="27"/>
+        <CursorPos X="43" Y="14"/>
         <UsageCount Value="453"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -20,7 +19,9 @@
         <ComponentName Value="Form1"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <CursorPos X="11"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="145"/>
+        <CursorPos X="86" Y="11"/>
         <UsageCount Value="453"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -30,7 +31,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="431"/>
         <CursorPos X="15" Y="439"/>
-        <UsageCount Value="213"/>
+        <UsageCount Value="198"/>
       </Unit2>
     </Units>
     <JumpHistory Count="30" HistoryIndex="29">
