@@ -7,9 +7,10 @@
       <Unit0>
         <Filename Value="PhoneBookConverter.lpr"/>
         <IsPartOfProject Value="True"/>
+        <UnitName Value="vCardTransformer"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="15" Y="10"/>
+        <CursorPos X="27"/>
         <UsageCount Value="453"/>
         <Loaded Value="True"/>
       </Unit0>
